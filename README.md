@@ -2,6 +2,8 @@
 
 The Document Table Extractor is a user-friendly web tool designed to help users easily extract tables from Microsoft Word documents (.doc and .docx) and convert them into a single downloadable XLS file.
 
+**Test it out:** https://document-table-extractor.dwayneh.nl
+
 ## Features
 
 1. **Simple Drag and Drop**: Users can quickly upload their Word documents by either dragging and dropping the files onto the designated area or clicking to select files from their device.
